@@ -7,7 +7,6 @@
 <li>Invesment Profit Calculator</li>
 <li>ATM sederhana</li>
 <li>Cara menjalankan</li>
-<li>Program detail</li>
 # programs 
 <li>program yang akan menggenerate angka random kurang dari 0.5 berdasarkan input user</li>
 <p><img width="341" alt="hasil latihan 1" src="https://github.com/user-attachments/assets/918cc69f-82ce-4128-8d5b-f8c3c0fd72fc"></p>
@@ -35,9 +34,6 @@
 # algoritma 
 <p>![algoritma03](https://github.com/user-attachments/assets/50460b38-0a66-452f-be32-0063a94e6d14)
 </p>
-# How To Run 
-<p>1.Pastikan Python 3.x sudah terinstal di sistem Anda</p>
-<P>Clone repository ini</P>
 
 
 
